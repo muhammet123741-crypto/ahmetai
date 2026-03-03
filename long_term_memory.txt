@@ -1,0 +1,25 @@
+Mami Dayı Hakkında Önemli Notlar:
+- Kullanıcının adı Mami.
+- Kullanıcının sevgilisinin adı Aleyna. Kendisi sağlıkçı ve şu an Samsunspor maçında görevli.
+- - Kullanıcının adı Mami.
+- Kullanıcının sevgilisinin adı Aleyna. Kendisi sağlıkçı ve şu an Samsunspor maçında görevli.
+- Mami, Avrupa EV pazarı hakkında X flood içeriği istedi. Ahmet, elektrikli SUV pazar verileri + Tesla/BYD/AB gümrük konularını işleyerek 3 tweet'lik flood hazırladı.
+- Mami flood'u kendisi atmak istedi, kopyala-yapıştır formatında düzenli şekilde sunuldu. Flood konusu: Avrupa elektrikli araç pazarı, Tesla düşüşü, BYD yükselişi, AB gümrük tarifeleri.
+- Mami, İran-ABD gerilimi hakkında 4 tweet'lik flood istedi. Arama sistemi veri çekemediği için mevcut bilgilerle (Trump mektubu, nükleer %60 zenginleştirme, Hürmüz Boğazı, gri alan gerilimi) flood hazırlandı. Kopyala-yapıştır formatında sunuldu.
+- Mami, 1 Mart 2026 akşamı İran-ABD savaşı hakkında güncel flood istedi. 28 Şubat 2026'da ABD ve İsrail İran'a ortak saldırı başlattı, Hamaney öldürüldü, Hürmüz Boğazı IRGC tarafından kapatıldı, İran misilleme açıkladı. Bu verilerle 4 tweet'lik flood hazırlandı ve kopyala-yapıştır formatında sunuldu.
+- X paylaşım sistemi 1 Mart 2026 akşamı timeout hatası verdi (2 deneme, ikisi de başarısız). İran-ABD savaşı flood'u manuel paylaşım için Mami Dayı'ya iletildi.
+- - X paylaşım sistemi 1 Mart 2026 akşamı 3. kez de timeout hatası verdi (tweetButtonInline locator bulunamıyor). İran-ABD savaşı flood'u manuel paylaşım için tekrar Mami Dayı'ya iletildi. X otomasyonu şu an çalışmıyor, sorun X arayüzünde.
+- - X paylaşım sistemi 1 Mart 2026 akşamı 3. kez de timeout hatası verdi (tweetButtonInline locator bulunamıyor). İran-ABD savaşı flood'u manuel paylaşım için tekrar Mami Dayı'ya iletildi. X otomasyonu şu an çalışmıyor, sorun X arayüzünde.
+- - İran-ABD savaşı flood'u (4 tweet) 1 Mart 2026 akşamı başarıyla X'te paylaşıldı. Önceki timeout hataları sonrası 4. denemede sistem çalıştı ve tweetler gönderildi.
+- - Mami Dayı X Premium aldı. Hesap adı: Mami Dayı. Profil fotoğrafı ayarlandı. Hesap konsepti: haber + hayata dair her şeyi paylaşan genel içerik hesabı. Bio ve pin tweet seçenekleri sunuldu. Bio için Seçenek 3 önerildi ('Haber. Hayat. Gerçek. 🔥 / Mami Dayı sesleniyor. / 📍 Samsun'). Pin tweet metni hazırlandı.
+- Pin tweet başarıyla X'te paylaşıldı (1 Mart 2026 akşamı). İçerik: 'Merhaba, ben Mami Dayı 👋 / Gündem & haber / Hayata dair her şey / Doğrudan sansürsüz / Takip et kaçırma 🔔 / Samsun'dan selamlıyorum 📍'. Kullanıcıya tweeti profilde pinlemesi gerektiği hatırlatıldı. Bio olarak Seçenek 3 önerildi: 'Haber. Hayat. Gerçek. 🔥 / Mami Dayı sesleniyor. / 📍 Samsun'
+- Mami Dayı zaman zaman samimi ve sıcakkanlı mesajlar atıyor, Ahmet de aynı şekilde karşılık veriyor. İlişki patron-çalışan değil, abi-kardeş gibi samimi.
+- Mami Dayı, 1 Mart 2026 akşamı X'teki en trend konunun İran-ABD savaşı olup olmadığını sordu. Ahmet, 28 Şubat gelişmeleri (Hamaney'in ölümü, Hürmüz'ün kapanması) baz alarak bu konunun kesinlikle en büyük trend olduğunu doğruladı.
+- Mami Dayı 1 Mart 2026 akşamı 'iyidir elhamdülillah' diye hal-hatır sordu. Sohbet samimi ve rahat devam ediyor.
+- Mami Dayı 1 Mart 2026 akşamı 20:19'da hal-hatır sordu. Sohbet samimi ve rahat seyrediyor.
+- - X paylaşım sistemi 1 Mart 2026 akşamı 20:32'de yeni bir timeout hatası verdi. Hata: 'div[role="button"]:has-text("+")' locator'ı bulunamıyor. Kullanıcı kodu güncelledi ama sorun devam ediyor. Muhtemel çözüm: locator'ı '[data-testid="SideNav_NewTweet_Button"]' veya 'a[href="/compose/tweet"]' ile değiştirmek.
+- - X paylaşım sistemi 1 Mart 2026 akşamı 20:36'da yeni timeout hatası verdi. Bu sefer 'tweetTextarea_1' locator'ı bulunamıyor — thread yazarken 2. tweet alanı yüklenemiyor. İran-ABD savaşı flood'u (4 tweet) manuel paylaşım için tekrar Mami Dayı'ya verildi. X otomasyon sistemi bu gece sürekli sorun çıkarıyor.
+- Mami Dayı 1 Mart 2026 gece 23:34'te X/Türkiye gündem taraması istedi. Toplanan veriler: Hamaney öldürüldü (ABD-İsrail saldırısı), İran misilleme açıkladı, Özgür Özel 1 Mart tezkeresi açıklaması yaptı, Resmi Gazete 33183 sayılı sayısı yayımlandı, Türkiye 5G dönemi başlıyor. Ahmet raporu sundu ve yeni flood teklif etti.
+- Kullanıcı 01 Mart 2026 gece 23:52'de haber özeti istedi. İran-İsrail savaşı tırmanıyor, Kudüs'e füze isabet ettiği bildirildi. Kullanıcı tweet atılmasını istemedi, sadece haber özeti talep etti.
+- Mami Dayı 2 Mart 2026 gece 02:23'te X trend analizi istedi. Gelen veri kripto değil futbol odaklıydı (Turkish Super League, Turkish Circus League). Kripto'da kritik gelişme olmadığından 'Sakin' kararı verildi, tweet atılmadı.
+- Mami Dayı 2 Mart 2026 sabah 05:23'te X trend analizi istedi. Gelen veri yine futbol odaklıydı (Turkish Super League, Turkish Circus League). Kripto'da kritik gelişme olmadığından 'Sakin' kararı verildi, tweet atılmadı.
